@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Smartphone
+//  action 1: the smartphone makes a call
+smartphone.makeCall();
+//  action 2: the smartphone takes a picture
+smartphone.takePicture();
+//  action 3: the smartphone plays a tune
+smartphone.playTune();
+    
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Watch
+//  action 1: tells the time
+watch.tellTime();
+//  action 2: adjusts the minutes
+watch.adjustMinutes();
+//  action 3: sets the alarm
+watch.setAlarm();
+    
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Vacuum cleaner
+//  action 1: the vacuum cleaner starts cleaning
+vacuumCleaner.start();
+//  action 2: the vacuum cleaner stops cleaning
+vacuumCleaner.stop();
+//  action 3: the vacuum cleaner connects to charger
+vacuumCleaner.recharge();
+    
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Hand
+//  action 1: the hand waves
+hand.wave();
+//  action 2: the hand grabs an object
+hand.grabObject();
+//  action 3: the hand shakes another hand
+hand.shakeAnotherHand();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Eyes
+//  action 1: the eyes read a text
+eyes.readText();
+//  action 2: the eyes blink
+eyes.blink();
+//  action 3: the eyes look to the left
+eyes.lookLeft();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Dog
+//  action 1: a dog barks
+dog.bark();
+//  action 2: a dog eats
+dog.eat();
+//  action 3: a dog sleeps
+dog.sleeps();
+    
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Fan
+//  action 1: the fan rotates clockwise
+fan.rotateClockwise();
+//  action 2: the fan rotates counter-clockwise
+fan.rotateCounterClockwise();
+//  action 3: the fan stops rotating
+fan.stop();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Kite
+//  action 1: the kite moves up
+kite.moveUp();
+//  action 2: the kite moves down
+kite.moveDown();
+//  action 3: the kite spins
+kite.spin();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Printer
+//  action 1: the printer prints in color
+printer.printsInColor();
+//  action 2: the printer prints in black and white
+printer.printsInBW();
+//  action 3: the printer needs a new cartridge
+printer.needsNewCartridge();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Soccer player
+//  action 1: the soccer player kicks the ball
+soccerPlayer.kickBall();
+//  action 2: the soccer player scores a goal
+soccerPlayer.scoreGoal();
+//  action 3: the soccer player tackles
+soccerPlayer.tackle();
 
 
 #endif
