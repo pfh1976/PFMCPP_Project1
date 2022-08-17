@@ -124,13 +124,13 @@ kite.moveDown();
 kite.spin();
 
 //  9)
-//  Noun: Printer
-//  action 1: the printer prints in color
-printer.printsInColor();
-//  action 2: the printer prints in black and white
-printer.printsInBW();
-//  action 3: the printer needs a new cartridge
-printer.needsNewCartridge();
+//  Noun: Audio Recorder
+//  action 1: Increase recording level
+audioRecoder.increaseVolume();
+//  action 2: start recording
+audioRecorder.startRecording();
+//  action 3: pause recording
+audioRecorder.pauseRecording();
 
 //  10)
 //  Noun: Soccer player
